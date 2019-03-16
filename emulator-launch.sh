@@ -1,4 +1,3 @@
-cd C:/Users/Nimda/AppData/Local/Android/Sdk/tools
   emulator -list-avds | cat -n
   printf "Select Device to work in it: "
   read index

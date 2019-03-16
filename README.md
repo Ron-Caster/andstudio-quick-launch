@@ -2,7 +2,7 @@
 
 ## Usage 
 
-##### Add your sdk/tools path inside of System Variables as in the picture below
+#### Add your sdk/tools path inside of System Variables as in the picture below
 
 Usually sdk/tools path comes as default like:
 

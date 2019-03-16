@@ -1,0 +1,2 @@
+*.sh
+!emulator-launch.sh

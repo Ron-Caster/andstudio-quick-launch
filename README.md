@@ -13,6 +13,6 @@ C:/Users/USER_NAME/AppData/Local/Android/Sdk/tools
 
 #### After that run it and the list of android devices which you have them installed will pop up as in the screenshot below. Enter the number of the device you want to work with.
 
-<img src="https://user-images.githubusercontent.com/39852038/54473418-72789280-47e8-11e9-8f31-bbd9ec8e1442.png"/>
+<img src="https://user-images.githubusercontent.com/39852038/55135303-55bf5180-513c-11e9-8357-584a3149d252.png"/>
 
 ### Enjoy.
